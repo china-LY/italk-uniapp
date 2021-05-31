@@ -100,7 +100,7 @@
 
 **Development Tool**: `HBuilderX`+`WebStorm`
 
-**Developing env**: `windows`开发+`linux`部署
+**Developing env**: `Windows`开发+`Linux(Nginx)`部署
 
 > **Why uni-app?**
 >
