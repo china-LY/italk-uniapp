@@ -21,7 +21,7 @@
 > - 全栈架构
 > - UI规范化
 >
-> 项目地址：http://italk.aoau.top
+> 项目地址：http://italk.aoau.top （建议移动设备访问）
 >
 > 更多项目请访问：http://www.aoau.top
 
