@@ -28,8 +28,12 @@
 > 项目地址：http://italk.aoau.top （建议移动设备访问）
 > 
 > apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
->
+> 
+> 小舍图片Api：https://github.com/bai-23/photosapi 本项目已使用。
+> 
 > 更多项目请访问：http://www.aoau.top
+
+#### 功能列表
 
 **登陆界面**
 
