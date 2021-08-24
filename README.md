@@ -31,7 +31,7 @@
 > 
 > 小舍图片Api：https://github.com/bai-23/photosapi 本项目已使用。
 > 
-> 更多项目请访问：http://www.aoau.top
+> 更多项目请访问个人博客：https://yesmore.cc
 
 #### 功能列表
 
