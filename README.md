@@ -1,8 +1,5 @@
 # 小舍App开发文档
 
-[TOC]
-
-
 
 ## 快速预览
 
@@ -29,7 +26,7 @@
 > 
 > apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
 > 
-> 小舍图片Api：https://github.com/yesmore/photosapi 本项目已使用。
+> 衍生产品：小舍图片Api[https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已使用。
 > 
 > 更多项目请访问个人博客：https://yesmore.cc
 
