@@ -29,7 +29,7 @@
 > 
 > apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
 > 
-> 小舍图片Api：https://github.com/bai-23/photosapi 本项目已使用。
+> 小舍图片Api：https://github.com/yesmore/photosapi 本项目已使用。
 > 
 > 更多项目请访问个人博客：https://yesmore.cc
 
