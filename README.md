@@ -1,6 +1,6 @@
 # 小舍App开发文档
 
-> 注意：线上项目已暂停注册（个人服务器原因，后期维护后会重启），代码逻辑正常，请放心食用。（21/9/13）
+> 注意：线上项目 [italk.aoau.top](http://italk.aoau.top) 注册功能已修复（其他功能也恢复正常），请放心食用。（21/9/13）
 >
 > 推荐本人的另一个项目：[VuEgg-jwt-template](https://github.com/yesmore/vue-egg-jwt-template)，基于 Vue、Eggjs 开发的**用户鉴权模板**，开箱即用，可配合 italk-app 项目食用，规范了后台代码，项目使用 MySQL，可自行更换成 MongoDB，让你专注于核心逻辑开发。
 
