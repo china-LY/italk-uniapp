@@ -1,4 +1,12 @@
-# 小舍App开发文档
+<div align=center>
+    <h1>小舍App开发文档</h1>
+    <img src="https://img.shields.io/github/stars/yesmore/italk-uniapp.svg" alt="star"/>
+    <img src="https://img.shields.io/github/forks/yesmore/italk-uniapp" alt="star"/>
+    <img src="https://img.shields.io/github/issues/yesmore/italk-uniapp" alt="star"/><br>
+    <img src="https://img.shields.io/github/license/yesmore/italk-uniapp" alt="star"/>
+</div>
+
+---
 
 > 注意：线上项目 [italk.aoau.top](http://italk.aoau.top) 注册功能已修复（其他功能也恢复正常），请放心食用。（21/9/13）
 >
