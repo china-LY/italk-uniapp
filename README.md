@@ -37,7 +37,7 @@
 > 
 > apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
 > 
-> 衍生产品：小舍图片Api [https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已使用（注：该图床暂存在本人服务器，只能尽可能保证其稳定性，你可以选择更佳的图床方案来迭代：PicGo+Github+CDN，了解详情请转到本人的另一个仓库：[yesmore/img](https://github.com/yesmore/img)）。
+> 衍生产品：小舍图片Api [https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已接入。（此接口已重构，新增 **CDN** 加速、**pv统计**功能，但 **italk-uniapp** 项目仍使用 **V1** 版，短时间内不会关闭）
 > 
 > 更多项目请访问个人博客：https://yesmore.cc
 
