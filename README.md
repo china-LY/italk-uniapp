@@ -8,22 +8,8 @@
 
 <br>
 
-> 注意：线上项目 [italk.aoau.top](http://italk.aoau.top) 注册功能已修复（其他功能也恢复正常），请放心食用。
+> 注意：线上项目 [italk.aoau.top](http://italk.aoau.top) 注册功能已修复，请放心食用。
 >
-> 推荐本人的另一个项目：[VuEgg-jwt-template](https://github.com/yesmore/vue-egg-jwt-template)，基于 Vue、Eggjs 开发的**用户鉴权模板**，开箱即用，可配合 italk-app 项目食用，规范了后台代码，项目使用 MySQL，可自行更换成 MongoDB，让你专注于核心逻辑开发。
-
-## 快速预览
-
-> 项目名称：小舍-社交app
-> 
-> 开发人员：熙子黒
-> 
-> 更新日期：2021-05-24
-> 
-> 开源协议：MIT
-> 
-> 有任何疑问请联系邮箱：3224266014@qq.com，并注明来意。
-> 
 > 请勿商用！
 
 ## 功能介绍
