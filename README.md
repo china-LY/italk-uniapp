@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/license/yesmore/italk-uniapp" alt="star"/>
 </div>
 
----
+<br>
 
 > 注意：线上项目 [italk.aoau.top](http://italk.aoau.top) 注册功能已修复（其他功能也恢复正常），请放心食用。
 >
@@ -37,7 +37,7 @@
 > 
 > apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
 > 
-> 衍生产品：小舍图片Api [https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已接入。（此接口已重构，新增 **CDN** 加速、**pv统计**功能，但 **italk-uniapp** 项目仍使用 **V1** 版，短时间内不会关闭）
+> 衍生产品：小舍图片Api [https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已接入。（此接口已重构，新增 **CDN** 加速、**pv统计**功能）
 > 
 > 更多项目请访问个人博客：https://yesmore.cc
 
