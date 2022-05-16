@@ -5,43 +5,27 @@
     <img src="https://img.shields.io/github/issues/yesmore/italk-uniapp" alt="star"/><br>
     <img src="https://img.shields.io/github/license/yesmore/italk-uniapp" alt="star"/>
 </div>
+<br>
 
----
-
-> 注意：线上项目 [italk.aoau.top](http://italk.aoau.top) 注册功能已修复（其他功能也恢复正常），请放心食用。
+> 线上项目 [http://italk.aoau.top](http://italk.aoau.top) 注册功能已修复，且项目不限期更新（咕咕咕
 >
-> 推荐本人的另一个项目：[VuEgg-jwt-template](https://github.com/yesmore/vue-egg-jwt-template)，基于 Vue、Eggjs 开发的**用户鉴权模板**，开箱即用，可配合 italk-app 项目食用，规范了后台代码，项目使用 MySQL，可自行更换成 MongoDB，让你专注于核心逻辑开发。
-
-## 快速预览
-
-> 项目名称：小舍-社交app
->
-> 开发人员：熙子黒
->
-> 更新日期：2021-05-24
->
-> 开源协议：MIT
->
-> 截止 2021/11/01 线上注册用户突破百人次（bushi 
->
-> 有任何疑问请联系邮箱：3224266014@qq.com，并注明来意。
->
-> 请勿商用！
 
 ## 功能介绍
 
-> - QQ、VX结合的聊天社交app
-> - 即时通讯技术
-> - 全栈架构
-> - UI规范化
->
-> 项目地址：http://italk.aoau.top （建议移动设备访问）
-> 
-> apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
-> 
-> 衍生产品：小舍图片Api [https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已接入。（此接口已重构，新增 **CDN** 加速、**pv统计**功能，但 **italk-uniapp** 项目仍使用 **V1** 版，短时间内不会关闭）
-> 
-> 更多项目请访问个人博客：https://yesmore.cc
+- QQ、VX结合的聊天社交app
+- 即时通讯技术
+- 全栈架构
+- UI规范化
+
+## 快速体验
+
+项目地址：http://italk.aoau.top （建议移动设备访问）
+
+apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
+
+衍生产品：小舍图片Api [https://github.com/yesmore/photosapi](https://github.com/yesmore/photosapi) 本项目已接入。（此接口已重构，新增 **CDN** 加速、**pv统计**功能）
+
+更多项目请访问主页：https://github.com/yesmore
 
 
 
@@ -56,7 +40,7 @@
 
 **Development Tool**: `HBuilderX`+`WebStorm`
 
-**Developing env**: `Windows`开发+`Linux(Nginx)`部署
+**Developing env**: `Windows `开发+`Linux(Nginx)` 部署
 
 > **Why uni-app?**
 >
@@ -244,7 +228,7 @@
 
 
 
-## Schema
+## 数据库表
 
 ### 用户
 
@@ -1168,6 +1152,5 @@
     imgurl: ver.userID.imgurl,
 }
 ```
-
 
 
