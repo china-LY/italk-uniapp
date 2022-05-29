@@ -1,25 +1,27 @@
 <div align=center>
-    <h1>小舍App开发文档</h1>
+    <h1>小舍</h1>
     <img src="https://img.shields.io/github/stars/yesmore/italk-uniapp.svg" alt="star"/>
     <img src="https://img.shields.io/github/forks/yesmore/italk-uniapp" alt="star"/>
-    <img src="https://img.shields.io/github/issues/yesmore/italk-uniapp" alt="star"/><br>
+    <img src="https://img.shields.io/github/issues/yesmore/italk-uniapp" alt="star"/>
     <img src="https://img.shields.io/github/license/yesmore/italk-uniapp" alt="star"/>
 </div>
+
 <br>
 
-> 线上项目 [http://italk.aoau.top](http://italk.aoau.top) 注册功能已修复，且项目不限期更新（咕咕咕
+> 线上项目 [http://italk.aoau.top](http://italk.aoau.top) 注册功能已修复；**项目不限期更新**。
 >
+> 重构计划：使用 [Taro (Vue3+Ts)]()、[Go (Gin+Gorm)]()、[MongoDB]()、[Websocket]() 技术栈重构项目，实现多端打包方案，在本项目基础上更加完善、优化。支持小伙伴合作。(2022/5/29)
 
 ## 功能介绍
 
-- QQ、VX结合的聊天社交app
+- 仿 QQ、VX 的聊天社交app
 - 即时通讯技术
 - 全栈架构
 - UI规范化
 
 ## 快速体验
 
-项目地址：http://italk.aoau.top （建议移动设备访问）
+项目地址：http://italk.aoau.top （建议移动端浏览器访问）
 
 apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
 
@@ -1152,5 +1154,4 @@ apk自提：https://pan.baidu.com/s/14i6yiGFdAuQgSCcQbcU45w  提取码：`q29u`
     imgurl: ver.userID.imgurl,
 }
 ```
-
 
