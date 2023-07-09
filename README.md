@@ -2,12 +2,13 @@
     <h1>小舍</h1>
     <img src="https://img.shields.io/github/stars/yesmore/italk-uniapp.svg" alt="star"/>
     <img src="https://img.shields.io/github/forks/yesmore/italk-uniapp" alt="star"/>
-    <img src="https://img.shields.io/github/issues/yesmore/italk-uniapp" alt="star"/>
-    <img src="https://img.shields.io/github/license/yesmore/italk-uniapp" alt="star"/>
 </div>
 
 <br>
 
+> **Warning**
+> 由于服务器费用高昂，本项目线上预览版将于**2023/12**下线。
+> 
 > 线上项目 [http://italk.aoau.top](http://italk.aoau.top) 注册功能已修复；**项目不限期更新**。
 >
 > 注意：本项目仅用于编程学习！本项目仅用于编程学习！本项目仅用于编程学习！
